@@ -1,0 +1,1 @@
+# algorithm-3-find-an-arragement-with-the-method-selecting
